@@ -1,0 +1,3437 @@
+{
+  "publisher": "Sterna Language",
+  "parentCompany": "WES GROUP LTD",
+  "website": "https://sternalanguage.com",
+  "snapshotDate": "2026-10-12",
+  "sourcePolicy": "https://sternalanguage.com/research",
+  "schools": [
+    {
+      "id": "ih-london",
+      "name": "International House London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ih-london",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "Business English",
+        "One-to-one tuition",
+        "Teacher training"
+      ],
+      "ageGuidance": "16+ · professional programmes 21+",
+      "accommodation": [
+        "Student residence",
+        "Homestay"
+      ],
+      "address": "16 Stukeley Street, London WC2B 5LQ, United Kingdom",
+      "officialUrl": "https://www.ihlondon.com/why-us/about-ih-london/",
+      "sourceUrl": "https://www.ihlondon.com/why-us/about-ih-london/",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kaplan-london",
+      "name": "Kaplan International Languages London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kaplan-london",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "English for ages 30+",
+        "English for ages 50+",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · separate 30+ school",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "https://www.kaplaninternational.com/language-schools/united-kingdom/london",
+      "sourceUrl": "https://www.kaplaninternational.com/language-schools/united-kingdom/london",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "wimbledon",
+      "name": "Wimbledon School of English",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/wimbledon",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Business English",
+        "IELTS preparation",
+        "Cambridge exam preparation",
+        "Exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · selected 30+ and 50+ courses",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "https://wimbledon-school.ac.uk/english-courses",
+      "sourceUrl": "https://wimbledon-school.ac.uk/english-courses",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kings-oxford",
+      "name": "Kings Oxford",
+      "city": "Oxford",
+      "cityId": "oxford",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kings-oxford",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Long-term English",
+        "Exam preparation",
+        "Specialist English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "https://www.kingseducation.com/learn-english/kings-oxford/",
+      "sourceUrl": "https://www.kingseducation.com/learn-english/kings-oxford/",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "studio-cambridge",
+      "name": "Studio Cambridge",
+      "city": "Cambridge",
+      "cityId": "cambridge",
+      "guideUrl": "https://sternalanguage.com/uk/schools/studio-cambridge",
+      "courses": [
+        "EFL-20 General English (18+)",
+        "EFL-28 Intensive English (16+)",
+        "CE-28 group and one-to-one English (16+)"
+      ],
+      "ageGuidance": "16+ intensive · 18+ morning-only",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "https://www.studiocambridge.co.uk/adult-english-courses/general-intensive-english-courses/",
+      "sourceUrl": "https://www.studiocambridge.co.uk/adult-english-courses/general-intensive-english-courses/",
+      "sourceChecked": null,
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kaplan-edinburgh",
+      "name": "Kaplan International Languages Edinburgh",
+      "city": "Edinburgh",
+      "cityId": "edinburgh",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kaplan-edinburgh",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Business English",
+        "Cultural programmes",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": "26 St. Andrew Square, Edinburgh, EH2 1AF",
+      "officialUrl": "https://www.kaplaninternational.com/language-schools/united-kingdom/edinburgh",
+      "sourceUrl": "https://www.kaplaninternational.com/language-schools/united-kingdom/edinburgh",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kaplan-international-languages-bath",
+      "name": "Kaplan International Languages Bath",
+      "city": "Bath",
+      "cityId": "bath",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kaplan-international-languages-bath",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "5 Trim Street, Bath, BA1 1HB",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "languages-united-bath",
+      "name": "Languages United Bath",
+      "city": "Bath",
+      "cityId": "bath",
+      "guideUrl": "https://sternalanguage.com/uk/schools/languages-united-bath",
+      "courses": [
+        "General English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "birmingham-school-of-english-birmingham",
+      "name": "Birmingham School of English",
+      "city": "Birmingham",
+      "cityId": "birmingham",
+      "guideUrl": "https://sternalanguage.com/uk/schools/birmingham-school-of-english-birmingham",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "IELTS preparation",
+        "Exam preparation",
+        "Short English courses"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "english-path-birmingham",
+      "name": "English Path Birmingham",
+      "city": "Birmingham",
+      "cityId": "birmingham",
+      "guideUrl": "https://sternalanguage.com/uk/schools/english-path-birmingham",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "One-to-one tuition",
+        "Teacher training"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "Norfolk House, 84-86 Smallbrook Queensway, Birmingham B5 4EG",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ilc-birmingham",
+      "name": "ILC Birmingham",
+      "city": "Birmingham",
+      "cityId": "birmingham",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ilc-birmingham",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "Work and internship programmes",
+        "Business English",
+        "One-to-one tuition",
+        "Cambridge exam preparation",
+        "Work experience"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "anglo-continental-bournemouth",
+      "name": "Anglo-Continental Bournemouth",
+      "city": "Bournemouth",
+      "cityId": "bournemouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/anglo-continental-bournemouth",
+      "courses": [
+        "General English",
+        "Academic English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": "29-35 Wimborne Road, Bournemouth, BH2 6NA, England",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "bayswater-bournemouth",
+      "name": "Bayswater Bournemouth",
+      "city": "Bournemouth",
+      "cityId": "bournemouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/bayswater-bournemouth",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "One-to-one tuition",
+        "Junior and family programmes",
+        "Business English",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "St Peters Quarter, Bournemouth BH1 2AD",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "cavendish-school-of-english-bournemouth",
+      "name": "Cavendish School of English Bournemouth",
+      "city": "Bournemouth",
+      "cityId": "bournemouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/cavendish-school-of-english-bournemouth",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ef-international-language-campuses-bournemouth",
+      "name": "EF International Language Campuses Bournemouth",
+      "city": "Bournemouth",
+      "cityId": "bournemouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ef-international-language-campuses-bournemouth",
+      "courses": [
+        "English language courses",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "11 Poole Road, Bournemouth, BH2 5QR, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "etc-international-college-bournemouth",
+      "name": "ETC International College Bournemouth",
+      "city": "Bournemouth",
+      "cityId": "bournemouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/etc-international-college-bournemouth",
+      "courses": [
+        "General English",
+        "Exam preparation"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "europa-school-of-english-bournemouth",
+      "name": "Europa School of English Bournemouth",
+      "city": "Bournemouth",
+      "cityId": "bournemouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/europa-school-of-english-bournemouth",
+      "courses": [
+        "General English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kaplan-international-languages-bournemouth",
+      "name": "Kaplan International Languages Bournemouth",
+      "city": "Bournemouth",
+      "cityId": "bournemouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kaplan-international-languages-bournemouth",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "English for ages 30+",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": "130-136 Poole Road, Bournemouth, BH4 9EF",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kings-education-bournemouth",
+      "name": "Kings Education Bournemouth",
+      "city": "Bournemouth",
+      "cityId": "bournemouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kings-education-bournemouth",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Long-term English",
+        "Exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "southbourne-school-of-english-bournemouth",
+      "name": "Southbourne School of English Bournemouth",
+      "city": "Bournemouth",
+      "cityId": "bournemouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/southbourne-school-of-english-bournemouth",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Cambridge exam preparation",
+        "One-to-one tuition",
+        "Junior and family programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "blc-international-brighton",
+      "name": "BLC International Brighton",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/blc-international-brighton",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Young learner English",
+        "Junior English"
+      ],
+      "ageGuidance": "7+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "bayswater-brighton",
+      "name": "Bayswater Brighton",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/bayswater-brighton",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "One-to-one tuition",
+        "Junior and family programmes",
+        "Business English",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "61 Western Road, Hove BN3 1JD",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "castle-school-of-english-brighton",
+      "name": "Castle School of English Brighton",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/castle-school-of-english-brighton",
+      "courses": [
+        "General English",
+        "IELTS preparation"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ef-international-language-campuses-brighton",
+      "name": "EF International Language Campuses Brighton",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ef-international-language-campuses-brighton",
+      "courses": [
+        "English language courses",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "1-2 Sussex Square, Brighton, BN2 1FJ, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "elc-schools-brighton",
+      "name": "ELC Schools Brighton",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/elc-schools-brighton",
+      "courses": [
+        "General English",
+        "Business English",
+        "Exam preparation",
+        "Long-term English",
+        "Teacher training",
+        "Junior and family programmes",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "fig-college-brighton",
+      "name": "FIG College Brighton",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/fig-college-brighton",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Cambridge exam preparation",
+        "Business English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kings-education-brighton",
+      "name": "Kings Education Brighton",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kings-education-brighton",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Long-term English",
+        "Exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "27–33 Ditchling Road, Brighton BN1 4SB",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "lsi-brighton",
+      "name": "LSI Brighton",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/lsi-brighton",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Intensive English",
+        "Business English",
+        "Academic English and pathways",
+        "Cambridge exam preparation",
+        "One-to-one tuition",
+        "Intensive small-group courses",
+        "Teacher training",
+        "Junior English",
+        "All-inclusive junior programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "55–61 Portland Road, Brighton BN3 5DQ",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "oieg-brighton",
+      "name": "Oxford International Brighton",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/oieg-brighton",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "10 Brunswick Place, Hove, Brighton BN3 1NA",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-andrew-s-college-language-schools-brighton",
+      "name": "St Andrew's College Language Schools Brighton",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-andrew-s-college-language-schools-brighton",
+      "courses": [
+        "Junior group programmes"
+      ],
+      "ageGuidance": "12+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "University of Sussex, Brighton, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-giles-brighton",
+      "name": "St Giles International Brighton",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-giles-brighton",
+      "courses": [
+        "General English",
+        "Mature learner programmes",
+        "IELTS preparation",
+        "One-to-one tuition",
+        "Business English",
+        "Cambridge exam preparation",
+        "Teacher training"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "1-3 Marlborough Place, Brighton BN1 1UB",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "loxdale-english-centre-brighton",
+      "name": "Loxdale English Centre",
+      "city": "Brighton",
+      "cityId": "brighton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/loxdale-english-centre-brighton",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "English Plus",
+        "Specialist English 40+"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay; availability and arrangements are confirmed for your dates"
+      ],
+      "address": "Locks Hill, Portslade, Brighton BN41 2LA",
+      "officialUrl": "https://www.loxdale.com/",
+      "sourceUrl": "https://www.loxdale.com/",
+      "sourceChecked": "2026-10-12",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "english-language-centre-bristol",
+      "name": "English Language Centre Bristol",
+      "city": "Bristol",
+      "cityId": "bristol",
+      "guideUrl": "https://sternalanguage.com/uk/schools/english-language-centre-bristol",
+      "courses": [
+        "General English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "international-house-bristol",
+      "name": "IH Bristol",
+      "city": "Bristol",
+      "cityId": "bristol",
+      "guideUrl": "https://sternalanguage.com/uk/schools/international-house-bristol",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Mature learner programmes",
+        "One-to-one tuition",
+        "Teacher training",
+        "Junior and family programmes"
+      ],
+      "ageGuidance": "12+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "2 Queens Avenue, Clifton, Bristol BS8 1SE",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ilc-bristol",
+      "name": "ILC Bristol",
+      "city": "Bristol",
+      "cityId": "bristol",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ilc-bristol",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "Work and internship programmes",
+        "Business English",
+        "One-to-one tuition",
+        "Cambridge exam preparation"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "central-language-school-cambridge-cambridge",
+      "name": "Central Language School Cambridge",
+      "city": "Cambridge",
+      "cityId": "cambridge",
+      "guideUrl": "https://sternalanguage.com/uk/schools/central-language-school-cambridge-cambridge",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ef-international-language-campuses-cambridge",
+      "name": "EF International Language Campuses Cambridge",
+      "city": "Cambridge",
+      "cityId": "cambridge",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ef-international-language-campuses-cambridge",
+      "courses": [
+        "English language courses",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "221 Hills Road, Cambridge, CB2 8RN, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ilc-cambridge",
+      "name": "ILC Cambridge",
+      "city": "Cambridge",
+      "cityId": "cambridge",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ilc-cambridge",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "Work and internship programmes",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kaplan-international-languages-cambridge",
+      "name": "Kaplan International Languages Cambridge",
+      "city": "Cambridge",
+      "cityId": "cambridge",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kaplan-international-languages-cambridge",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "75 Barton Road, Cambridge, CB3 9LG",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "lsi-cambridge",
+      "name": "LSI Cambridge",
+      "city": "Cambridge",
+      "cityId": "cambridge",
+      "guideUrl": "https://sternalanguage.com/uk/schools/lsi-cambridge",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Intensive English",
+        "Business English",
+        "Academic English and pathways",
+        "Cambridge exam preparation",
+        "One-to-one tuition",
+        "Intensive small-group courses",
+        "Junior English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "41 Tenison Road, Cambridge CB1 2DG",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "select-english-cambridge",
+      "name": "Select English Cambridge",
+      "city": "Cambridge",
+      "cityId": "cambridge",
+      "guideUrl": "https://sternalanguage.com/uk/schools/select-english-cambridge",
+      "courses": [
+        "General English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence",
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-giles-cambridge",
+      "name": "St Giles International Cambridge",
+      "city": "Cambridge",
+      "cityId": "cambridge",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-giles-cambridge",
+      "courses": [
+        "General English",
+        "Business English",
+        "Junior and family programmes",
+        "IELTS preparation",
+        "One-to-one tuition",
+        "Cambridge exam preparation"
+      ],
+      "ageGuidance": "14+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "52 Bateman Street, Cambridge CB2 1LR",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "stafford-house-cambridge",
+      "name": "Stafford House Cambridge",
+      "city": "Cambridge",
+      "cityId": "cambridge",
+      "guideUrl": "https://sternalanguage.com/uk/schools/stafford-house-cambridge",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "One-to-one tuition",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "15 Round Church Street, Cambridge CB5 8AD",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-andrew-s-college-language-schools-canterbury",
+      "name": "St Andrew's College Language Schools Canterbury",
+      "city": "Canterbury",
+      "cityId": "canterbury",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-andrew-s-college-language-schools-canterbury",
+      "courses": [
+        "Junior group programmes"
+      ],
+      "ageGuidance": "12+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "University of Kent, Canterbury, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "stafford-house-canterbury",
+      "name": "Stafford House Canterbury",
+      "city": "Canterbury",
+      "cityId": "canterbury",
+      "guideUrl": "https://sternalanguage.com/uk/schools/stafford-house-canterbury",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "One-to-one tuition",
+        "Long-term English",
+        "Mature learner programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "19 New Dover Road, Canterbury CT1 3AS",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "celtic-english-academy-cardiff",
+      "name": "Celtic English Academy Cardiff",
+      "city": "Cardiff",
+      "cityId": "cardiff",
+      "guideUrl": "https://sternalanguage.com/uk/schools/celtic-english-academy-cardiff",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Cambridge exam preparation",
+        "Business English",
+        "Teacher training"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "we-bridge-academy-cardiff",
+      "name": "WE Bridge Academy Cardiff",
+      "city": "Cardiff",
+      "cityId": "cardiff",
+      "guideUrl": "https://sternalanguage.com/uk/schools/we-bridge-academy-cardiff",
+      "courses": [
+        "General English",
+        "Exam preparation"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "inlingua-cheltenham-cheltenham",
+      "name": "inlingua Cheltenham",
+      "city": "Cheltenham",
+      "cityId": "cheltenham",
+      "guideUrl": "https://sternalanguage.com/uk/schools/inlingua-cheltenham-cheltenham",
+      "courses": [
+        "General English",
+        "One-to-one tuition",
+        "Business English",
+        "Junior and family programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence",
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "elc-schools-chester",
+      "name": "ELC Schools Chester",
+      "city": "Chester",
+      "cityId": "chester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/elc-schools-chester",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Long-term English",
+        "Junior and family programmes",
+        "Age-specific courses",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ilc-colchester",
+      "name": "ILC Colchester",
+      "city": "Colchester",
+      "cityId": "colchester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ilc-colchester",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "Work and internship programmes",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-andrew-s-college-language-schools-colchester",
+      "name": "St Andrew's College Language Schools Colchester",
+      "city": "Colchester",
+      "cityId": "colchester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-andrew-s-college-language-schools-colchester",
+      "courses": [
+        "Junior group programmes"
+      ],
+      "ageGuidance": "11+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "University of Essex, Colchester, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "durham-school-of-english-durham",
+      "name": "Durham School of English Durham",
+      "city": "Durham",
+      "cityId": "durham",
+      "guideUrl": "https://sternalanguage.com/uk/schools/durham-school-of-english-durham",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence",
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "elc-schools-eastbourne",
+      "name": "ELC Schools Eastbourne",
+      "city": "Eastbourne",
+      "cityId": "eastbourne",
+      "guideUrl": "https://sternalanguage.com/uk/schools/elc-schools-eastbourne",
+      "courses": [
+        "General English",
+        "English with activities",
+        "Exam preparation",
+        "Long-term English",
+        "Junior and family programmes",
+        "Age-specific courses",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-giles-eastbourne",
+      "name": "St Giles International Eastbourne",
+      "city": "Eastbourne",
+      "cityId": "eastbourne",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-giles-eastbourne",
+      "courses": [
+        "General English",
+        "Business English",
+        "Junior and family programmes",
+        "IELTS preparation",
+        "One-to-one tuition",
+        "Academic English and pathways",
+        "Cambridge exam preparation"
+      ],
+      "ageGuidance": "14+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": "13 Silverdale Road, Eastbourne BN20 7AJ",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "twin-eastbourne",
+      "name": "Twin English Centres Eastbourne",
+      "city": "Eastbourne",
+      "cityId": "eastbourne",
+      "guideUrl": "https://sternalanguage.com/uk/schools/twin-eastbourne",
+      "courses": [
+        "General English",
+        "Professional development",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition",
+        "Junior and family programmes",
+        "Work and internship programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "Eastbourne, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "basil-paterson-english-edinburgh",
+      "name": "Basil Paterson English Edinburgh",
+      "city": "Edinburgh",
+      "cityId": "edinburgh",
+      "guideUrl": "https://sternalanguage.com/uk/schools/basil-paterson-english-edinburgh",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ces-edinburgh",
+      "name": "CES Edinburgh",
+      "city": "Edinburgh",
+      "cityId": "edinburgh",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ces-edinburgh",
+      "courses": [
+        "General English",
+        "Long-term English",
+        "IELTS preparation",
+        "Combination courses",
+        "Cambridge exam preparation",
+        "University pathways",
+        "English for ages 50+",
+        "Teacher training",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "54 Manor Pl, Edinburgh EH3 7EH, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "oieg-edinburgh",
+      "name": "Oxford International Edinburgh",
+      "city": "Edinburgh",
+      "cityId": "edinburgh",
+      "guideUrl": "https://sternalanguage.com/uk/schools/oieg-edinburgh",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": "3rd Floor, 40 Shandwick Place, West End, Edinburgh EH2 4RT",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-andrew-s-college-language-schools-edinburgh",
+      "name": "St Andrew's College Language Schools Edinburgh",
+      "city": "Edinburgh",
+      "cityId": "edinburgh",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-andrew-s-college-language-schools-edinburgh",
+      "courses": [
+        "Junior group programmes"
+      ],
+      "ageGuidance": "9+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "Merchiston Castle School, Edinburgh, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "the-language-institute-edinburgh-edinburgh",
+      "name": "The Language Institute Edinburgh",
+      "city": "Edinburgh",
+      "cityId": "edinburgh",
+      "guideUrl": "https://sternalanguage.com/uk/schools/the-language-institute-edinburgh-edinburgh",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Business English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "star-exeter-exeter",
+      "name": "STAR Exeter",
+      "city": "Exeter",
+      "cityId": "exeter",
+      "guideUrl": "https://sternalanguage.com/uk/schools/star-exeter-exeter",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Intensive English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "glasgow-school-of-english-glasgow",
+      "name": "Glasgow School of English",
+      "city": "Glasgow",
+      "cityId": "glasgow",
+      "guideUrl": "https://sternalanguage.com/uk/schools/glasgow-school-of-english-glasgow",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Business English",
+        "Academic English and pathways"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "live-language-glasgow",
+      "name": "Live Language Glasgow",
+      "city": "Glasgow",
+      "cityId": "glasgow",
+      "guideUrl": "https://sternalanguage.com/uk/schools/live-language-glasgow",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Business English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "closed",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-andrew-s-college-language-schools-glasgow",
+      "name": "St Andrew's College Language Schools Glasgow",
+      "city": "Glasgow",
+      "cityId": "glasgow",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-andrew-s-college-language-schools-glasgow",
+      "courses": [
+        "Junior and family programmes"
+      ],
+      "ageGuidance": "11+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "bayswater-leeds",
+      "name": "Bayswater Leeds",
+      "city": "Leeds",
+      "cityId": "leeds",
+      "guideUrl": "https://sternalanguage.com/uk/schools/bayswater-leeds",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "One-to-one tuition",
+        "Junior and family programmes",
+        "Business English",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ces-leeds",
+      "name": "CES Leeds",
+      "city": "Leeds",
+      "cityId": "leeds",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ces-leeds",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "One-to-one tuition",
+        "Cambridge exam preparation",
+        "Long-term English",
+        "Academic English and pathways",
+        "Business English",
+        "Teacher training"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "english-path-leeds",
+      "name": "English Path Leeds",
+      "city": "Leeds",
+      "cityId": "leeds",
+      "guideUrl": "https://sternalanguage.com/uk/schools/english-path-leeds",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "One-to-one tuition",
+        "Teacher training"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "St George House, 40 Great George St, Leeds LS1 3DL",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "yorkshire-college-leeds",
+      "name": "Yorkshire College Leeds",
+      "city": "Leeds",
+      "cityId": "leeds",
+      "guideUrl": "https://sternalanguage.com/uk/schools/yorkshire-college-leeds",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "IELTS preparation",
+        "Evening English",
+        "Online English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence",
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "esbm-leicester",
+      "name": "ESBM Leicester",
+      "city": "Leicester",
+      "cityId": "leicester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/esbm-leicester",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "IELTS preparation",
+        "Academic English and pathways"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "atlas-language-school-liverpool",
+      "name": "Atlas Language School Liverpool",
+      "city": "Liverpool",
+      "cityId": "liverpool",
+      "guideUrl": "https://sternalanguage.com/uk/schools/atlas-language-school-liverpool",
+      "courses": [
+        "General English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "bayswater-liverpool",
+      "name": "Bayswater Liverpool",
+      "city": "Liverpool",
+      "cityId": "liverpool",
+      "guideUrl": "https://sternalanguage.com/uk/schools/bayswater-liverpool",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "One-to-one tuition",
+        "Business English",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "42-46 Whitechapel, Liverpool L1 6DS",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kaplan-international-languages-liverpool",
+      "name": "Kaplan International Languages Liverpool",
+      "city": "Liverpool",
+      "cityId": "liverpool",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kaplan-international-languages-liverpool",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "English for ages 30+",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "Cotton House, Old Hall Street, Liverpool, L3 9TX",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "lila-liverpool",
+      "name": "LILA* Liverpool College",
+      "city": "Liverpool",
+      "cityId": "liverpool",
+      "guideUrl": "https://sternalanguage.com/uk/schools/lila-liverpool",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "IELTS preparation",
+        "Professional English and exam preparation",
+        "English with activities",
+        "Cambridge exam preparation",
+        "Teacher training",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "liverpool-school-of-english-liverpool",
+      "name": "Liverpool School of English",
+      "city": "Liverpool",
+      "cityId": "liverpool",
+      "guideUrl": "https://sternalanguage.com/uk/schools/liverpool-school-of-english-liverpool",
+      "courses": [
+        "Exam preparation",
+        "Elective courses",
+        "General English",
+        "Business English",
+        "Cultural programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence"
+      ],
+      "address": "33 Rodney Street, Liverpool, L1 9JF, UK",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ncg-liverpool",
+      "name": "New College Group Liverpool",
+      "city": "Liverpool",
+      "cityId": "liverpool",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ncg-liverpool",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "bayswater-london",
+      "name": "Bayswater London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/bayswater-london",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "One-to-one tuition",
+        "Junior and family programmes",
+        "Business English",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "167 Queensway, London W2 4SB",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "britannia-school-of-english-london",
+      "name": "Britannia School of English London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/britannia-school-of-english-london",
+      "courses": [
+        "General English",
+        "IELTS preparation"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "british-school-of-management-and-science-london",
+      "name": "British School of Management and Science London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/british-school-of-management-and-science-london",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "Business English",
+        "Academic English and pathways",
+        "Exam preparation"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "burlington-school-of-english-london",
+      "name": "Burlington School of English London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/burlington-school-of-english-london",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "Cambridge exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ces-london",
+      "name": "CES London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ces-london",
+      "courses": [
+        "General English",
+        "Long-term English",
+        "IELTS preparation",
+        "Combination courses",
+        "Cambridge exam preparation",
+        "Academic English and pathways"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "docklands-academy-london-london",
+      "name": "Docklands Academy London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/docklands-academy-london-london",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "Professional English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "11 Selsdon Way, City Harbour, London E14 9GL",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ef-international-language-campuses-london",
+      "name": "EF International Language Campuses London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ef-international-language-campuses-london",
+      "courses": [
+        "English language courses",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "74 Roupell Street, London, SE1 8SS, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "es-london",
+      "name": "ES London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/es-london",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "Business English",
+        "Teacher training"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence",
+        "Homestay"
+      ],
+      "address": "27–28 Woburn Square, London WC1H 0AA, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "english-path-london",
+      "name": "English Path London Stratford",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/english-path-london",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Academic English and IELTS",
+        "Professional certificates",
+        "One-to-one tuition",
+        "Work and internship programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "EP House, 7 Rick Roberts Way, London E15 2FP, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "frances-king-london",
+      "name": "Frances King London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/frances-king-london",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "Mature learner programmes",
+        "Business English",
+        "Academic English and pathways",
+        "One-to-one tuition",
+        "Cultural programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "77 Gloucester Road, Kensington, London SW7 4SS, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "influential-english-london",
+      "name": "Influential English London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/influential-english-london",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "IELTS preparation"
+      ],
+      "ageGuidance": "18+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "8 Skyline Village, Lime Harbour, London E14 9TS, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "islington-centre-for-english-london",
+      "name": "Islington Centre for English London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/islington-centre-for-english-london",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Combination courses"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kings-education-london",
+      "name": "Kings Education London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kings-education-london",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Long-term English",
+        "Exam preparation",
+        "Specialist English",
+        "Holiday English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "lsi-london-central",
+      "name": "LSI London Central",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/lsi-london-central",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Intensive English",
+        "Academic English and pathways",
+        "Business English",
+        "Cambridge exam preparation",
+        "One-to-one tuition",
+        "Teacher training",
+        "Professional English",
+        "Small-group tuition",
+        "Intensive small-group courses",
+        "Junior English",
+        "All-inclusive junior programmes",
+        "English for ages 40+"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "19–21 Ridgmount Street, London WC1E 7AH",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "lsi-london-hampstead",
+      "name": "LSI London Hampstead",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/lsi-london-hampstead",
+      "courses": [
+        "Junior English",
+        "All-inclusive junior programmes"
+      ],
+      "ageGuidance": "6+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "13 Lyndhurst Terrace, London NW3 5QA",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "linguarama-london-london",
+      "name": "Linguarama London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/linguarama-london-london",
+      "courses": [
+        "Business English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ohc-english-london",
+      "name": "OHC English London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ohc-english-london",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "oieg-london-greenwich",
+      "name": "Oxford International London Greenwich",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/oieg-london-greenwich",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "259 Greenwich High Road, London SE10 8NB",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "regent-language-training-london",
+      "name": "Regent Language Training London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/regent-language-training-london",
+      "courses": [
+        "General English",
+        "Exam preparation"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": "12 Buckingham Street, London WC2N 6DF, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "scl-international-college-london",
+      "name": "SCL International College London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/scl-international-college-london",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Cambridge exam preparation",
+        "Academic English and pathways",
+        "Junior and family programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "skola-english-in-london-london",
+      "name": "SKOLA English in London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/skola-english-in-london-london",
+      "courses": [
+        "General English",
+        "All-inclusive junior programmes",
+        "Junior English",
+        "Intensive English"
+      ],
+      "ageGuidance": "5+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "speak-up-london",
+      "name": "Speak Up London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/speak-up-london",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Business English",
+        "General and business English",
+        "Intensive English",
+        "Junior and family programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "139 Oxford Street, London W1D 2JA, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "speakeasy-school-of-english-london",
+      "name": "Speakeasy School of English London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/speakeasy-school-of-english-london",
+      "courses": [
+        "General English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "sprachcaffe-languages-plus-london",
+      "name": "Sprachcaffe Languages Plus London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/sprachcaffe-languages-plus-london",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Academic English and pathways",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "18+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-andrew-s-college-language-schools-london",
+      "name": "St Andrew's College Language Schools London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-andrew-s-college-language-schools-london",
+      "courses": [
+        "Junior group programmes"
+      ],
+      "ageGuidance": "12+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "London, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-giles-international-london-central",
+      "name": "St Giles International London Central",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-giles-international-london-central",
+      "courses": [
+        "General English",
+        "Mature learner programmes",
+        "IELTS preparation",
+        "One-to-one tuition",
+        "Business English",
+        "Academic English and pathways",
+        "Cambridge exam preparation",
+        "Teacher training"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "154 Southampton Row, London WC1B 5JX",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-giles-international-london-highgate",
+      "name": "St Giles International London Highgate",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-giles-international-london-highgate",
+      "courses": [
+        "General English",
+        "Junior and family programmes",
+        "IELTS preparation",
+        "One-to-one tuition",
+        "Business English"
+      ],
+      "ageGuidance": "14+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "51 Shepherds Hill, London N6 5QP",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "stafford-house-london",
+      "name": "Stafford House London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/stafford-house-london",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition",
+        "Mature learner programmes",
+        "Long-term English",
+        "Academic and creative courses"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "2 Southampton Place, London WC1A 2DA",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "the-english-studio-london",
+      "name": "The English Studio London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/the-english-studio-london",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "IELTS preparation",
+        "Business English",
+        "One-to-one tuition",
+        "Junior and family programmes",
+        "Combined English courses"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "london-school-english-london",
+      "name": "The London School of English",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/london-school-english-london",
+      "courses": [
+        "General English",
+        "Business English",
+        "IELTS preparation",
+        "Legal English",
+        "Closed-group courses",
+        "One-to-one tuition",
+        "Junior and family programmes"
+      ],
+      "ageGuidance": "18+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "15 Holland Park Gardens, London W14 8DZ, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "time4london-london",
+      "name": "Time4London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/time4london-london",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Weekend English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "twin-london",
+      "name": "Twin English Centres London Greenwich",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/twin-london",
+      "courses": [
+        "General English",
+        "Professional development",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition",
+        "Junior and family programmes",
+        "Work and internship programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "Greenwich, London, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "uk-college-of-english-london",
+      "name": "UK College of English London",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/uk-college-of-english-london",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "west-london-english-school-london",
+      "name": "West London English School",
+      "city": "London",
+      "cityId": "london",
+      "guideUrl": "https://sternalanguage.com/uk/schools/west-london-english-school-london",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "IELTS preparation",
+        "Cambridge exam preparation",
+        "Medical English",
+        "Business English",
+        "One-to-one tuition",
+        "Speaking skills"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "berlitz-manchester-manchester",
+      "name": "Berlitz Manchester",
+      "city": "Manchester",
+      "cityId": "manchester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/berlitz-manchester-manchester",
+      "courses": [
+        "General English",
+        "Intensive English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "britannia-english-academy-manchester",
+      "name": "Britannia English Academy Manchester",
+      "city": "Manchester",
+      "cityId": "manchester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/britannia-english-academy-manchester",
+      "courses": [
+        "General English and exam preparation",
+        "General English",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "12 Charlotte Street, Manchester M1 4FL, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ef-international-language-campuses-manchester",
+      "name": "EF International Language Campuses Manchester",
+      "city": "Manchester",
+      "cityId": "manchester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ef-international-language-campuses-manchester",
+      "courses": [
+        "English language courses",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "26 Wilbraham Road, Manchester, M14 6JX, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "express-english-college-manchester",
+      "name": "Express English College Manchester",
+      "city": "Manchester",
+      "cityId": "manchester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/express-english-college-manchester",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "IELTS preparation",
+        "Business English",
+        "Intensive English and city activities"
+      ],
+      "ageGuidance": "18+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ih-manchester",
+      "name": "IH Manchester",
+      "city": "Manchester",
+      "cityId": "manchester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ih-manchester",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition",
+        "Online English",
+        "Teacher training"
+      ],
+      "ageGuidance": "18+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "5th Floor, Arthur House, 13-15 Chorlton Street, Manchester M1 3FH",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kaplan-international-languages-manchester",
+      "name": "Kaplan International Languages Manchester",
+      "city": "Manchester",
+      "cityId": "manchester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kaplan-international-languages-manchester",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "1 Portland Street, 6th Floor, Manchester, M1 3BE",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ncg-manchester",
+      "name": "New College Group Manchester",
+      "city": "Manchester",
+      "cityId": "manchester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ncg-manchester",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "international-house-newcastle",
+      "name": "IH Newcastle",
+      "city": "Newcastle",
+      "cityId": "newcastle",
+      "guideUrl": "https://sternalanguage.com/uk/schools/international-house-newcastle",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Teacher training",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition",
+        "Junior and family programmes"
+      ],
+      "ageGuidance": "8+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence",
+        "Homestay"
+      ],
+      "address": "7-15 Gallowgate, Newcastle upon Tyne NE1 4SG",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "knowledge-first-newcastle",
+      "name": "Knowledge First Newcastle",
+      "city": "Newcastle",
+      "cityId": "newcastle",
+      "guideUrl": "https://sternalanguage.com/uk/schools/knowledge-first-newcastle",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Academic English and pathways",
+        "Business English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "newcastle-international-school-newcastle",
+      "name": "Newcastle International School Newcastle",
+      "city": "Newcastle",
+      "cityId": "newcastle",
+      "guideUrl": "https://sternalanguage.com/uk/schools/newcastle-international-school-newcastle",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Business English",
+        "Academic English and pathways",
+        "Junior and family programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "language-tuition-nottingham-nottingham",
+      "name": "Language Tuition Nottingham",
+      "city": "Nottingham",
+      "cityId": "nottingham",
+      "guideUrl": "https://sternalanguage.com/uk/schools/language-tuition-nottingham-nottingham",
+      "courses": [
+        "Exam preparation"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-andrew-s-college-language-schools-nottingham",
+      "name": "St Andrew's College Language Schools Nottingham",
+      "city": "Nottingham",
+      "cityId": "nottingham",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-andrew-s-college-language-schools-nottingham",
+      "courses": [
+        "Junior group programmes"
+      ],
+      "ageGuidance": "11+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "University of Nottingham, Nottingham, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ces-oxford",
+      "name": "CES Oxford",
+      "city": "Oxford",
+      "cityId": "oxford",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ces-oxford",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "One-to-one tuition",
+        "Cambridge exam preparation",
+        "Long-term English",
+        "Academic English and pathways",
+        "Business English",
+        "Mature learner programmes",
+        "Teacher training"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "cie-oxford-oxford",
+      "name": "CIE Oxford",
+      "city": "Oxford",
+      "cityId": "oxford",
+      "guideUrl": "https://sternalanguage.com/uk/schools/cie-oxford-oxford",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "One-to-one tuition",
+        "Junior English",
+        "Academic English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ef-international-language-campuses-oxford",
+      "name": "EF International Language Campuses Oxford",
+      "city": "Oxford",
+      "cityId": "oxford",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ef-international-language-campuses-oxford",
+      "courses": [
+        "English language courses",
+        "Long-term English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "Pullens Lane, Headington Oxford, OX3 0DT, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kaplan-international-languages-oxford",
+      "name": "Kaplan International Languages Oxford",
+      "city": "Oxford",
+      "cityId": "oxford",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kaplan-international-languages-oxford",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "108 Banbury Road, Oxford, OX2 6JU",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "oxford-english-centre-oxford",
+      "name": "Oxford English Centre",
+      "city": "Oxford",
+      "cityId": "oxford",
+      "guideUrl": "https://sternalanguage.com/uk/schools/oxford-english-centre-oxford",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "General English with one-to-one tuition",
+        "Exam preparation",
+        "Business English",
+        "Medical English",
+        "One-to-one tuition",
+        "Legal English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "oxford-international-language-school-oxford",
+      "name": "Oxford International Language School",
+      "city": "Oxford",
+      "cityId": "oxford",
+      "guideUrl": "https://sternalanguage.com/uk/schools/oxford-international-language-school-oxford",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Business English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "oieg-oxford",
+      "name": "Oxford International Oxford",
+      "city": "Oxford",
+      "cityId": "oxford",
+      "guideUrl": "https://sternalanguage.com/uk/schools/oieg-oxford",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "Pembroke House, 36–37 Pembroke Street, Oxford OX1 1BP",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "oxford-international-study-centre-oxford",
+      "name": "Oxford International Study Centre",
+      "city": "Oxford",
+      "cityId": "oxford",
+      "guideUrl": "https://sternalanguage.com/uk/schools/oxford-international-study-centre-oxford",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "One-to-one tuition",
+        "Specialist English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "oxford-school-of-english-oxford",
+      "name": "Oxford School of English",
+      "city": "Oxford",
+      "cityId": "oxford",
+      "guideUrl": "https://sternalanguage.com/uk/schools/oxford-school-of-english-oxford",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Cambridge exam preparation",
+        "Exam preparation",
+        "Business English",
+        "Academic English",
+        "Teacher training",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "st-clare-s-oxford-oxford",
+      "name": "St Clare's Oxford",
+      "city": "Oxford",
+      "cityId": "oxford",
+      "guideUrl": "https://sternalanguage.com/uk/schools/st-clare-s-oxford-oxford",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "Junior English",
+        "University preparation and academic English"
+      ],
+      "ageGuidance": "9+ · course-specific ages vary",
+      "accommodation": [],
+      "address": "139 Banbury Road, Oxford, OX2 7AL, UK",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ilc-portsmouth",
+      "name": "ILC Portsmouth",
+      "city": "Portsmouth",
+      "cityId": "portsmouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ilc-portsmouth",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "Work and internship programmes",
+        "Business English",
+        "One-to-one tuition",
+        "Cambridge exam preparation"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "international-house-portsmouth",
+      "name": "LSI Portsmouth",
+      "city": "Portsmouth",
+      "cityId": "portsmouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/international-house-portsmouth",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Business English",
+        "Mature learner programmes",
+        "One-to-one tuition",
+        "English with activities",
+        "Teacher training",
+        "Academic English and pathways"
+      ],
+      "ageGuidance": "18+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "2-2A Isambard Brunel Road, Portsmouth, Hampshire PO1 2DU",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "preston-academy-of-english-preston",
+      "name": "Preston Academy of English Preston",
+      "city": "Preston",
+      "cityId": "preston",
+      "guideUrl": "https://sternalanguage.com/uk/schools/preston-academy-of-english-preston",
+      "courses": [
+        "General English",
+        "Exam preparation"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "eurospeak-language-school-reading",
+      "name": "Eurospeak Language School Reading",
+      "city": "Reading",
+      "cityId": "reading",
+      "guideUrl": "https://sternalanguage.com/uk/schools/eurospeak-language-school-reading",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Speaking and communication"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "sheffield-language-centre-sheffield",
+      "name": "Sheffield Language Centre Sheffield",
+      "city": "Sheffield",
+      "cityId": "sheffield",
+      "guideUrl": "https://sternalanguage.com/uk/schools/sheffield-language-centre-sheffield",
+      "courses": [
+        "General English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "sidmouth-international-school-sidmouth",
+      "name": "Sidmouth International School Sidmouth",
+      "city": "Sidmouth",
+      "cityId": "sidmouth",
+      "guideUrl": "https://sternalanguage.com/uk/schools/sidmouth-international-school-sidmouth",
+      "courses": [
+        "General English",
+        "One-to-one tuition",
+        "Business English"
+      ],
+      "ageGuidance": "7+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": "May Cottage, Sidmouth EX10 8EN, United Kingdom",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "eurospeak-language-school-southampton",
+      "name": "Eurospeak Language School Southampton",
+      "city": "Southampton",
+      "cityId": "southampton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/eurospeak-language-school-southampton",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Speaking and communication"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "lewis-school-of-english-southampton",
+      "name": "Lewis School of English Southampton",
+      "city": "Southampton",
+      "cityId": "southampton",
+      "guideUrl": "https://sternalanguage.com/uk/schools/lewis-school-of-english-southampton",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "General English with one-to-one tuition",
+        "One-to-one and online tuition",
+        "Exam preparation",
+        "Long-term English",
+        "Afternoon English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay",
+        "Student residence"
+      ],
+      "address": "30–33 Palmerston Road, Southampton, SO14 1LL, UK",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "international-house-torquay",
+      "name": "IH Torquay",
+      "city": "Torquay",
+      "cityId": "torquay",
+      "guideUrl": "https://sternalanguage.com/uk/schools/international-house-torquay",
+      "courses": [
+        "General English",
+        "Exam preparation",
+        "Business English",
+        "Junior and family programmes"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Student residence",
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "kaplan-international-languages-torquay",
+      "name": "Kaplan International Languages Torquay",
+      "city": "Torquay",
+      "cityId": "torquay",
+      "guideUrl": "https://sternalanguage.com/uk/schools/kaplan-international-languages-torquay",
+      "courses": [
+        "General English",
+        "Intensive English",
+        "English for ages 50+",
+        "Exam preparation",
+        "Business English",
+        "One-to-one tuition"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": "30 Ash Hill Road, Torquay, TQ1 3HZ",
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "lewis-school-of-english-winchester",
+      "name": "Lewis School of English Winchester",
+      "city": "Winchester",
+      "cityId": "winchester",
+      "guideUrl": "https://sternalanguage.com/uk/schools/lewis-school-of-english-winchester",
+      "courses": [
+        "Junior summer programmes"
+      ],
+      "ageGuidance": "11+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "windsor-english-windsor",
+      "name": "Windsor English Windsor",
+      "city": "Windsor",
+      "cityId": "windsor",
+      "guideUrl": "https://sternalanguage.com/uk/schools/windsor-english-windsor",
+      "courses": [
+        "General English"
+      ],
+      "ageGuidance": "18+ · course-specific ages vary",
+      "accommodation": [],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "ces-worthing",
+      "name": "CES Worthing",
+      "city": "Worthing",
+      "cityId": "worthing",
+      "guideUrl": "https://sternalanguage.com/uk/schools/ces-worthing",
+      "courses": [
+        "General English",
+        "IELTS preparation",
+        "One-to-one tuition",
+        "Cambridge exam preparation",
+        "Long-term English",
+        "Academic English and pathways",
+        "Business English",
+        "Teacher training"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    },
+    {
+      "id": "english-in-york-york",
+      "name": "English in York",
+      "city": "York",
+      "cityId": "york",
+      "guideUrl": "https://sternalanguage.com/uk/schools/english-in-york-york",
+      "courses": [
+        "General English",
+        "One-to-one tuition",
+        "IELTS preparation",
+        "Business English"
+      ],
+      "ageGuidance": "16+ · course-specific ages vary",
+      "accommodation": [
+        "Homestay"
+      ],
+      "address": null,
+      "officialUrl": "",
+      "sourceUrl": "",
+      "sourceChecked": "2026-10-09",
+      "admissionsStatus": "enquire",
+      "scope": "Public school guide; not proof of a school partnership or live availability"
+    }
+  ]
+}
