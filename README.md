@@ -33,7 +33,7 @@ The website offers English, Turkish, Korean, Arabic, Italian, Japanese and Tradi
 
 ## Use and corrections
 
-Original written guidance is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), attributed to Sterna Language with a link to the source. School names and third-party material are not covered by that permission. No school photographs, brochures, customer information, application records or credentials are included here.
+This public repository is intended for reading, reference and source-linked citation. Copyright in original Sterna guidance remains with WES GROUP LTD. Third-party names and material belong to their respective owners. No school photographs, brochures, customer information, application records or credentials are included here.
 
 For a correction, open an issue with the school guide URL and a public source, or email [info@sternalanguage.com](mailto:info@sternalanguage.com). Do not include private student information in public issues.
 
