@@ -20,3 +20,7 @@ The useful question is not “Which school is best for everyone?” It is “Whi
 - Written cancellation, payment and accommodation terms.
 
 Create a shortlist from the [UK school directory](https://sternalanguage.com/uk/schools), read the individual school guides and ask Sterna for a comparison around your own goals. A guide is a starting point; your written proposal confirms the actual booking.
+
+## Put the questions into practice
+
+Build a [school-priorities brief](https://sternalanguage.com/uk/planning/school-priorities), compare [adult class age fit](https://sternalanguage.com/uk/planning/adult-class-age-fit) and use the [accreditation evidence checklist](https://sternalanguage.com/uk/planning/accreditation-reader). Explore all [30 planning topics](PLANNING-TOOLS.md).

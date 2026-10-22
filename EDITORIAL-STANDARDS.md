@@ -26,4 +26,10 @@ Sterna community activities are separate from a school's social programme. Dates
 
 Core navigation and key instructions have edited translations. Longer content uses automatic translation and has not all been professionally reviewed by native speakers. English is the source version. Contact info@sternalanguage.com if a name, address, fee or condition needs correction; rely on your written booking documents for confirmed terms.
 
-[Live policy](https://sternalanguage.com/research). Snapshot: 12 October 2026. Corrections: info@sternalanguage.com.
+[Live policy](https://sternalanguage.com/research). Snapshot: 23 October 2026 (Europe/London). Corrections: info@sternalanguage.com.
+
+## Snapshot dates and interactive tools
+
+The school data is copied from the public website response. Its original `generatedAt` timestamp and each record’s `sourceChecked` value are preserved; the repository snapshot date records this refresh, not a new independent verification of every fact.
+
+The planning index includes only topics linked from the public planning hub when this snapshot was prepared. Interactive calculations use entered assumptions and should be checked against school and provider terms. Public comments are moderated on the website and are not copied into this repository.

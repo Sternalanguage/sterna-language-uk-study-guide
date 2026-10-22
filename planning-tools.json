@@ -1,0 +1,279 @@
+{
+  "publisher": "Sterna Language",
+  "website": "https://sternalanguage.com",
+  "snapshotDate": "2026-10-23",
+  "snapshotTimezone": "Europe/London",
+  "sourceUrl": "https://sternalanguage.com/uk/planning?lang=en",
+  "tools": [
+    {
+      "id": "accessibility-enquiry",
+      "title": "Plan the access you need. Before you book.",
+      "description": "Build a practical accessibility enquiry for your UK English course. Check the teaching building, learning materials, accommodation and written arrangements.",
+      "category": "support",
+      "categoryLabel": "Support & peace of mind",
+      "url": "https://sternalanguage.com/uk/planning/accessibility-enquiry",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/accessibility-enquiry?lang=zh-Hant"
+    },
+    {
+      "id": "move-in-checklist",
+      "title": "Make your first room check a simple one.",
+      "description": "Use a practical move-in checklist for your UK study stay. Record your room, find the right contact and keep clear notes before settling in.",
+      "category": "arrival",
+      "categoryLabel": "Arrival & everyday life",
+      "url": "https://sternalanguage.com/uk/planning/move-in-checklist",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/move-in-checklist?lang=zh-Hant"
+    },
+    {
+      "id": "teaching-days",
+      "title": "Count the teaching days. Plan the rest.",
+      "description": "Check potential class days across your UK English course dates. Add confirmed school closures and ask the right questions before booking.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/teaching-days",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/teaching-days?lang=zh-Hant"
+    },
+    {
+      "id": "lesson-hours",
+      "title": "Make every lesson count. In real hours.",
+      "description": "Compare two English courses in teaching hours. Enter weekly lessons and lesson length to see the difference, with breaks and holiday assumptions kept clear.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/lesson-hours",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/lesson-hours?lang=zh-Hant"
+    },
+    {
+      "id": "commute-planner",
+      "title": "A good place to stay fits your everyday journey.",
+      "description": "Turn a one-way journey into a weekly study-life time budget. Compare door-to-door travel, a personal buffer and the whole course period.",
+      "category": "arrival",
+      "categoryLabel": "Arrival & everyday life",
+      "url": "https://sternalanguage.com/uk/planning/commute-planner",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/commute-planner?lang=zh-Hant"
+    },
+    {
+      "id": "arrival-check-in",
+      "title": "From landing to your room. Give the day a plan.",
+      "description": "Build an arrival timing scenario using UK local dates, airport time, transfer time and a personal buffer. Compare it with your check-in deadline.",
+      "category": "arrival",
+      "categoryLabel": "Arrival & everyday life",
+      "url": "https://sternalanguage.com/uk/planning/arrival-check-in",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/arrival-check-in?lang=zh-Hant"
+    },
+    {
+      "id": "phone-readiness",
+      "title": "Will your phone be ready when you land?",
+      "description": "Check your phone unlock status, eSIM compatibility, roaming, activation and offline arrival details. Turn uncertain answers into a practical UK departure checklist.",
+      "category": "arrival",
+      "categoryLabel": "Arrival & everyday life",
+      "url": "https://sternalanguage.com/uk/planning/phone-readiness",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/phone-readiness?lang=zh-Hant"
+    },
+    {
+      "id": "vocabulary-notebook",
+      "title": "A useful phrase. Ready for your next conversation.",
+      "description": "Turn a word or phrase into a personal English practice card. Add meaning, your own example and a recall question, then practise before revealing your notes.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/vocabulary-notebook",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/vocabulary-notebook?lang=zh-Hant"
+    },
+    {
+      "id": "teacher-feedback",
+      "title": "Ask a better question. Leave with a next step.",
+      "description": "Prepare specific questions for your English teacher using a real example and your learning priorities. Build a practical feedback agenda without automated assessment.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/teacher-feedback",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/teacher-feedback?lang=zh-Hant"
+    },
+    {
+      "id": "emergency-contact-plan",
+      "title": "Know who to call. Before you need to.",
+      "description": "Prepare a private UK study contact plan with school, accommodation and trusted-person roles. Check availability, save an offline copy and keep emergency numbers separate.",
+      "category": "support",
+      "categoryLabel": "Support & peace of mind",
+      "url": "https://sternalanguage.com/uk/planning/emergency-contact-plan",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/emergency-contact-plan?lang=zh-Hant"
+    },
+    {
+      "id": "school-priorities",
+      "title": "A school that fits you starts with what matters.",
+      "description": "Build a personal school-selection brief. Set your priorities, separate essential requirements and turn a shortlist into specific evidence to request.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/school-priorities",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/school-priorities?lang=zh-Hant"
+    },
+    {
+      "id": "timetable-fit",
+      "title": "Your course. Your day. Make room for both.",
+      "description": "Check a regular class block against a personal commitment. Include the journey after class and see clashes by weekday before choosing a timetable.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/timetable-fit",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/timetable-fit?lang=zh-Hant"
+    },
+    {
+      "id": "two-week-goal",
+      "title": "Two weeks. One task that means something to you.",
+      "description": "Turn a short English stay into a focused task plan. Choose a real situation, available practice days and a small piece of evidence to review with your teacher.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/two-week-goal",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/two-week-goal?lang=zh-Hant"
+    },
+    {
+      "id": "quote-comparison",
+      "title": "The useful number is the whole picture.",
+      "description": "Compare two itemised study quotes for the same dates in pounds. Keep tuition, accommodation, other charges and refundable security deposits visible.",
+      "category": "support",
+      "categoryLabel": "Support & peace of mind",
+      "url": "https://sternalanguage.com/uk/planning/quote-comparison",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/quote-comparison?lang=zh-Hant"
+    },
+    {
+      "id": "homestay-questions",
+      "title": "A host’s home. A routine that works for both of you.",
+      "description": "Prepare a practical homestay enquiry about meals, kitchen use, laundry, quiet hours and arrival. Clarify the household routine before confirming a stay.",
+      "category": "arrival",
+      "categoryLabel": "Arrival & everyday life",
+      "url": "https://sternalanguage.com/uk/planning/homestay-questions",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/homestay-questions?lang=zh-Hant"
+    },
+    {
+      "id": "room-inclusions",
+      "title": "Pack for the room you booked. Not the room you imagined.",
+      "description": "Sort bedding, towels, kitchen equipment and daily essentials into confirmed, bring, arrange and ask. Create a room-specific packing and questions list.",
+      "category": "arrival",
+      "categoryLabel": "Arrival & everyday life",
+      "url": "https://sternalanguage.com/uk/planning/room-inclusions",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/room-inclusions?lang=zh-Hant"
+    },
+    {
+      "id": "booking-name-check",
+      "title": "One trip. Records that belong together.",
+      "description": "Track checks across your flight, travel document, school and accommodation without entering personal identifiers. Keep unresolved differences visible before departure.",
+      "category": "support",
+      "categoryLabel": "Support & peace of mind",
+      "url": "https://sternalanguage.com/uk/planning/booking-name-check",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/booking-name-check?lang=zh-Hant"
+    },
+    {
+      "id": "weekend-return",
+      "title": "Enjoy the weekend. Leave room for Monday.",
+      "description": "Compare a planned return arrival with your next class. Include the journey home, a personal recovery allowance and the journey back to school.",
+      "category": "arrival",
+      "categoryLabel": "Arrival & everyday life",
+      "url": "https://sternalanguage.com/uk/planning/weekend-return",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/weekend-return?lang=zh-Hant"
+    },
+    {
+      "id": "market-conversation",
+      "title": "A little curiosity. A real conversation.",
+      "description": "Make a short market English practice card with an opening, one useful question, a clarification and a polite ending. Reveal the example when you are ready.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/market-conversation",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/market-conversation?lang=zh-Hant"
+    },
+    {
+      "id": "after-course-routine",
+      "title": "The course ends. Your world keeps opening.",
+      "description": "Build a repeatable weekly English routine for life after your course. Choose days, realistic minutes and skills, then keep a four-week practice calendar.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/after-course-routine",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/after-course-routine?lang=zh-Hant"
+    },
+    {
+      "id": "accreditation-reader",
+      "title": "Read the evidence behind the school badge.",
+      "description": "Check a named centre, campus and inspection report. Build a short evidence checklist and specific follow-up questions before choosing an English school.",
+      "category": "support",
+      "categoryLabel": "Support & peace of mind",
+      "url": "https://sternalanguage.com/uk/planning/accreditation-reader",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/accreditation-reader?lang=zh-Hant"
+    },
+    {
+      "id": "adult-class-age-fit",
+      "title": "Find your classroom rhythm, not just an age label.",
+      "description": "Turn a preference for mixed-age, 30+ or 50+ learning into specific questions about programme eligibility, actual class grouping and course dates.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/adult-class-age-fit",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/adult-class-age-fit?lang=zh-Hant"
+    },
+    {
+      "id": "course-change-brief",
+      "title": "A change of plan deserves a clear next step.",
+      "description": "Prepare questions before changing an English course, timetable, campus or school. Separate the current booking, new place, accommodation and written confirmation.",
+      "category": "support",
+      "categoryLabel": "Support & peace of mind",
+      "url": "https://sternalanguage.com/uk/planning/course-change-brief",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/course-change-brief?lang=zh-Hant"
+    },
+    {
+      "id": "booking-responsibilities",
+      "title": "Know who is doing what for your stay.",
+      "description": "Map the teaching provider, booking contact, payment recipient and accommodation contact before comparing a direct booking with an agency proposal.",
+      "category": "support",
+      "categoryLabel": "Support & peace of mind",
+      "url": "https://sternalanguage.com/uk/planning/booking-responsibilities",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/booking-responsibilities?lang=zh-Hant"
+    },
+    {
+      "id": "business-course-brief",
+      "title": "Bring your working world into your English plan.",
+      "description": "Build a workplace English brief around meetings, emails, presentations and networking. Ask about entry level and practice format without relying on a course label.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/business-course-brief",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/business-course-brief?lang=zh-Hant"
+    },
+    {
+      "id": "attendance-planner",
+      "title": "See the attendance arithmetic before you make a plan.",
+      "description": "Calculate your attendance to date and the remaining lessons needed against a target supplied by your school. Keep attendance rules separate from course completion or visa decisions.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/attendance-planner",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/attendance-planner?lang=zh-Hant"
+    },
+    {
+      "id": "cancellation-questions",
+      "title": "Read the exit before you enter the booking.",
+      "description": "Prepare specific cancellation and refund questions before paying. Separate course, accommodation, notice route, charges and the policy version attached to your proposal.",
+      "category": "support",
+      "categoryLabel": "Support & peace of mind",
+      "url": "https://sternalanguage.com/uk/planning/cancellation-questions",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/cancellation-questions?lang=zh-Hant"
+    },
+    {
+      "id": "room-evidence-check",
+      "title": "Before the room becomes your address, check the evidence.",
+      "description": "Organise evidence about a proposed room, the person offering it, written terms and payment instructions before committing to independently arranged accommodation.",
+      "category": "arrival",
+      "categoryLabel": "Arrival & everyday life",
+      "url": "https://sternalanguage.com/uk/planning/room-evidence-check",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/room-evidence-check?lang=zh-Hant"
+    },
+    {
+      "id": "meal-plan-fit",
+      "title": "Make the meal plan fit an ordinary week.",
+      "description": "Count the weekly meal slots covered by your entered accommodation arrangement, identify meals to organise yourself and prepare practical questions for the provider.",
+      "category": "arrival",
+      "categoryLabel": "Arrival & everyday life",
+      "url": "https://sternalanguage.com/uk/planning/meal-plan-fit",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/meal-plan-fit?lang=zh-Hant"
+    },
+    {
+      "id": "learning-progress",
+      "title": "Notice what you can do, not just the level label.",
+      "description": "Compare two attempts at the same English task. Record task completion, clarity and repair strategies with a simple personal reflection rubric, separate from formal language assessment.",
+      "category": "learning",
+      "categoryLabel": "Learning & courses",
+      "url": "https://sternalanguage.com/uk/planning/learning-progress",
+      "traditionalChineseUrl": "https://sternalanguage.com/uk/planning/learning-progress?lang=zh-Hant"
+    }
+  ]
+}
